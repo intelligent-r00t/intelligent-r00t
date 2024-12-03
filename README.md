@@ -24,7 +24,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | Windows Server Configuration and Management   | SOAR/EDR Lab                  |
 | Phishing Email Analysis and Threat Assessment | BlueTeamLabs Online, BTL1         |
 | Network Traffic Monitoring with Wireshark     | Academic Studies, BTLO, BTL1 |
-| EDR Tool Proficiency (LimaCharlie, SentinelOne) | SOAR/EDR Lab |
+| EDR Tool Proficiency                          | SOAR/EDR Lab |
 | Log Enrichment and IOC Analysis               | SOC Analyst Lab, BTLO, BTL1                 |
 
 ## Tools
