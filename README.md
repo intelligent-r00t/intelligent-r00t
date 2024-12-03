@@ -9,8 +9,8 @@ Detail-oriented and motivated Senior Cybersecurity student seeking a SOC Analyst
 My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-Blue Team Level 1 (BTL1)
-Blue Team Labs Online (BTLO)
+- Blue Team Level 1 (BTL1)
+- Blue Team Labs Online (BTLO)
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
