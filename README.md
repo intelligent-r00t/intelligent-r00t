@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/zacharyashford1"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Detail-oriented and motivated Senior Cybersecurity student seeking a SOC Analyst or Incident Responder Role in a dynamic, security-focused environment. Skilled in network traffic analysis, alert triage, and SIEM investigations, with hands-on experience using tools such as Microsoft Defender, Splunk, PowerShell, SentinelOne, VirusTotal, DeepBlueCLI, Elastic, and Wireshark. Committed to integrity, accountability, and operational efficiency, and eager to contribute to a collaborative SOC team while advancing technical expertise in cybersecurity.
+Detail-oriented and motivated Senior Cybersecurity student seeking a SOC Analyst or Incident Responder Role in a dynamic, security-focused environment. Skilled in network traffic analysis, alert triage, and SIEM investigations, with hands-on experience using tools such as Microsoft Defender, Splunk, PowerShell, SentinelOne, VirusTotal, DeepBlueCLI, Hybrid Analysis, and Wireshark. Committed to integrity, accountability, and operational efficiency, and eager to contribute to a collaborative SOC team while advancing technical expertise in cybersecurity.
 
 ## Objective
 
