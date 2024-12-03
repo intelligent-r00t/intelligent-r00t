@@ -20,10 +20,9 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | Endpoint Detection and Response Configuration | SOC Analyst Lab, SOAR/EDR Lab   |
 | Detection Rule Development and Testing        | SOC Analyst Lab, SOAR/EDR Lab   |
 | Windows Server Configuration and Management   | SOAR/EDR Lab                  |
-| Phishing Email Analysis and Threat Assessment | Security Analyst Role           |
+| Phishing Email Analysis and Threat Assessment | BlueTeamLabs Online         |
 | Network Traffic Monitoring with Wireshark     | Academic Studies, BlueTeamLabs Online|
-| PCI-DSS Compliance Support                    | Security Analyst Role           |
-| EDR Tool Proficiency (LimaCharlie, SentinelOne) | SOAR/EDR Lab, Security Analyst Role
+| EDR Tool Proficiency (LimaCharlie, SentinelOne) | SOAR/EDR Lab |
 | Log Enrichment and IOC Analysis               | SOC Analyst Lab                 |
 
 ## Tools
@@ -63,7 +62,6 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 </div>
 
 ## Projects
-- Detection Lab
 - <a href="https://medium.com/@zashford6/soc-automation-lab-44cca761b04d">SOC Analyst Project</a>
 - SOAR Automation Project
 - <a href="https://github.com/intelligent-r00t/Nand2Tetris">Nand2Tetris</a>
