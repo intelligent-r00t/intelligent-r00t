@@ -12,12 +12,19 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | Detection Lab|
-| Network Traffic Monitoring and Attack Detection | Detection Lab|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab| SOAR Automation Lab
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | SOC Analyst Lab                 |
+| Network Traffic Monitoring and Attack Detection | SOC Analyst Lab                 |
+| Security Automation with Tines and Shuffle SOAR | SOC Analyst Lab, SOAR/EDR Lab   |
+| Incident Response Planning and Execution      | SOC Analyst Lab, SOAR/EDR Lab   |
+| Case Management with TheHive                  | SOC Analyst Lab                 |
+| Endpoint Detection and Response Configuration | SOC Analyst Lab, SOAR/EDR Lab   |
+| Detection Rule Development and Testing        | SOC Analyst Lab, SOAR/EDR Lab   |
+| Windows Server Configuration and Management   | SOAR/EDR Lab                  |
+| Phishing Email Analysis and Threat Assessment | Security Analyst Role           |
+| Network Traffic Monitoring with Wireshark     | Academic Studies, BlueTeamLabs Online|
+| PCI-DSS Compliance Support                    | Security Analyst Role           |
+| EDR Tool Proficiency (LimaCharlie, SentinelOne) | SOAR/EDR Lab, Security Analyst Role
+| Log Enrichment and IOC Analysis               | SOC Analyst Lab                 |
 
 ## Tools
 
