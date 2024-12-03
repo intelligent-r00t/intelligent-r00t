@@ -6,7 +6,7 @@ Detail-oriented and motivated Senior Cybersecurity student seeking a SOC Analyst
 
 ## Objective
 
-My journey in IT support has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
