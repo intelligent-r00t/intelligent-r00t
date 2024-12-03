@@ -9,21 +9,23 @@ Detail-oriented and motivated Senior Cybersecurity student seeking a SOC Analyst
 My journey in IT has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
+Blue Team Level 1 (BTL1)
+Blue Team Labs Online (BTLO)
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | SOC Analyst Lab                 |
-| Network Traffic Monitoring and Attack Detection | SOC Analyst Lab                 |
+| SIEM Implementation and Log Analysis          | SOC Analyst Lab, BTL1                 |
+| Network Traffic Monitoring and Attack Detection | SOC Analyst Lab, BTL1                |
 | Security Automation with Tines and Shuffle SOAR | SOC Analyst Lab, SOAR/EDR Lab   |
-| Incident Response Planning and Execution      | SOC Analyst Lab, SOAR/EDR Lab   |
+| Incident Response Planning and Execution      | SOC Analyst Lab, SOAR/EDR Lab, BTL1   |
 | Case Management with TheHive                  | SOC Analyst Lab                 |
 | Endpoint Detection and Response Configuration | SOC Analyst Lab, SOAR/EDR Lab   |
 | Detection Rule Development and Testing        | SOC Analyst Lab, SOAR/EDR Lab   |
 | Windows Server Configuration and Management   | SOAR/EDR Lab                  |
-| Phishing Email Analysis and Threat Assessment | BlueTeamLabs Online         |
-| Network Traffic Monitoring with Wireshark     | Academic Studies, BlueTeamLabs Online|
+| Phishing Email Analysis and Threat Assessment | BlueTeamLabs Online, BTL1         |
+| Network Traffic Monitoring with Wireshark     | Academic Studies, BTLO, BTL1 |
 | EDR Tool Proficiency (LimaCharlie, SentinelOne) | SOAR/EDR Lab |
-| Log Enrichment and IOC Analysis               | SOC Analyst Lab                 |
+| Log Enrichment and IOC Analysis               | SOC Analyst Lab, BTLO, BTL1                 |
 
 ## Tools
 
