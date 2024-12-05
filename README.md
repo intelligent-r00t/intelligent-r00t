@@ -64,7 +64,12 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 </div>
 
 ## Projects
+
+### Home Lab
 - <a href="https://medium.com/@zashford6/soc-automation-lab-44cca761b04d">SOC Analyst Project</a>
 - SOAR Automation Project
+- <a href="https://medium.com/@zashford6/thm-snapped-phish-ing-line-write-up-18a2ca8ba930">THM | Snapped Phish-ing Line | Write-up</a>
+
+### Miss. State Coding Projects
 - <a href="https://github.com/intelligent-r00t/Nand2Tetris">Nand2Tetris</a>
 - <a href="https://github.com/intelligent-r00t/E-commerce-Store/tree/main">E-Commerce-Store</a>
