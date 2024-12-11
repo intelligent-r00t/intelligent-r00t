@@ -11,11 +11,12 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 ## Skills
 - Blue Team Level 1 (BTL1)
 - Blue Team Labs Online (BTLO)
+- CyberDefenders (CD)
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | SOC Analyst Lab, BTL1                 |
-| Network Traffic Monitoring and Attack Detection | SOC Analyst Lab, BTL1                |
+| Network Traffic Monitoring and Attack Detection | SOC Analyst Lab, BTL1, CD                |
 | Security Automation with Tines and Shuffle SOAR | SOC Analyst Lab, SOAR/EDR Lab   |
 | Incident Response Planning and Execution      | SOC Analyst Lab, SOAR/EDR Lab, BTL1   |
 | Case Management with TheHive                  | SOC Analyst Lab                 |
@@ -23,7 +24,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 | Detection Rule Development and Testing        | SOC Analyst Lab, SOAR/EDR Lab   |
 | Windows Server Configuration and Management   | SOAR/EDR Lab                  |
 | Phishing Email Analysis and Threat Assessment | BlueTeamLabs Online, BTL1         |
-| Network Traffic Monitoring with Wireshark     | Academic Studies, BTLO, BTL1 |
+| Network Traffic Monitoring with Wireshark     | Academic Studies, BTLO, BTL1, CD |
 | EDR Tool Proficiency                          | SOAR/EDR Lab |
 | Log Enrichment and IOC Analysis               | SOC Analyst Lab, BTLO, BTL1                 |
 
@@ -69,6 +70,7 @@ My journey in IT has led me to develop a passion for cybersecurity, and I am now
 - <a href="https://medium.com/@zashford6/soc-automation-lab-44cca761b04d">SOC Analyst Project</a>
 - SOAR Automation Project
 - <a href="https://medium.com/@zashford6/thm-snapped-phish-ing-line-write-up-18a2ca8ba930">THM | Snapped Phish-ing Line | Write-up</a>
+- <a href="https://medium.com/@zashford6/psexec-hunt-blue-team-lab-21aed697cc6c">CyberDefenders | PsExec Hunt — Blue Team Lab | Write-Up</a>
 
 ### Miss. State Coding Projects
 - <a href="https://github.com/intelligent-r00t/Nand2Tetris">Nand2Tetris</a>
